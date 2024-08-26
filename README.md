@@ -3,7 +3,7 @@ This project provides an interactive visualization tool for various sorting algo
 
 Features:
 
-Supports popular sorting algorithms like Bubble Sort, Selection Sort, Insertion sort.
+Supports popular sorting algorithms like Bubble Sort, Selection Sort, Insertion sort,merge sort,quick sort.
 Users can control the visualization speed and adjust the data size.
 
 link:https://sortvisualizer-pi.vercel.app/
